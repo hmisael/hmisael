@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hmisael
-- 👀 I’m interested in Mobile Technologies and Accessibility Testing. 
-- 🌱 I'm currently learning Mobile App Development (Kotlin) and Backend Development (Java). 
+- 👋 Hi, I’m Hernán Misael
+- 👀 I’m interested in Mobile Technologies, Backend Development and Accessibility Testing. 
+- 🌱 I'm currently learning Mobile App Development (Kotlin) and Backend Development (Java SpringBoot). 
 - 📫 Email: sosahernanmisael@gmail.com
 
 <!---
